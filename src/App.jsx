@@ -1,3 +1,5 @@
+import UserCard from "./components/UserCard";
+
 function App() {
   return (
     <>
@@ -14,6 +16,7 @@ function App() {
             role: <span>software engineer</span>
           </h4>
         </div>
+        <UserCard />
       </section>
     </>
   );
