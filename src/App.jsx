@@ -1,15 +1,13 @@
 import BasicInfo from "./components/BasicInfo";
+import users from "./utils/users";
 
 function App() {
   return (
     <>
       <section>
-        <BasicInfo
-          name="Johan Herrera"
-          email="johan@gmail.com"
-          dateOfBirth="08/30/2000"
-          role="developer"
-        />
+        {users.map((user, index) => (
+          <BasicInfo key={index} {...user} />
+        ))}
       </section>
     </>
   );
