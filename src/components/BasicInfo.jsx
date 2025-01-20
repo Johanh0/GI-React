@@ -15,7 +15,7 @@ class BasicInfo extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="card">
         <h2>{this.state.person.name}</h2>
         <h4>
           email: <span>{this.state.person.email}</span>

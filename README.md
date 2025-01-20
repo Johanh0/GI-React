@@ -1,8 +1,15 @@
-# React + Vite
+# GI Challenges Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a collection of GI challenges. To explore each challenge, check the different commits in the repository's history.
 
-Currently, two official plugins are available:
+## How to Explore the Challenges
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Go to the "Commits" section of the repository.
+2. Each commit is associated with a specific GI challenge.
+3. Review the commit messages to identify the challenge you want to explore.
+4. Select a commit to see the changes and specific details related to that challenge.
+
+## Important Notes
+
+- Be sure to review the commit messages to understand the context of each challenge.
+- If you have questions or comments about a particular challenge, feel free to open an issue or contact us.
